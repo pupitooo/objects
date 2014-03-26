@@ -1,4 +1,4 @@
 objects
 =======
 
-Objects
+Objects for everyday using

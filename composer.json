@@ -1,0 +1,21 @@
+{
+    "name": "pupitooo/objects",
+    "type": "library",
+    "description": "objects for everyday using",
+    "homepage": "https://github.com/pupitooo/objects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr Poupě",
+            "email": "pupe.dupe@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "nette/nette": ">=2.1"
+    },
+    "autoload": {
+        "classmap": ["./"]
+    }
+}

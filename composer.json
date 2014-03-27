@@ -1,7 +1,7 @@
 {
     "name": "pupitooo/objects",
     "type": "library",
-    "description": "objects for everyday using",
+    "description": "Objects for everyday using",
     "homepage": "https://github.com/pupitooo/objects",
     "license": "MIT",
     "authors": [
@@ -16,6 +16,8 @@
         "nette/nette": ">=2.1"
     },
     "autoload": {
-        "classmap": ["./"]
+        "psr-0": {
+            "Pupitooo\\Objects": "src/"
+        }
     }
 }
